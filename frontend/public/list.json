@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 50,
+    "category": "Entertenment",
+    "image": "books.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Music Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 60,
+    "category": "Free",
+    "image": "books.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 80,
+    "category": "interesting",
+    "image": "books.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Movie Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 200,
+    "category": "Free",
+    "image": "books.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Comic Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Novel Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Knowledge",
+    "image": "books.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bible Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 150,
+    "category": "Religion",
+    "image": "books.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Comic Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Music Book",
+    "title": "Lorem, ipsum dolar sit amet consectetur adipisicing elit.",
+    "price": 90,
+    "category": "Nice",
+    "image": "books.jpg"
+  }
+]
