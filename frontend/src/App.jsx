@@ -5,12 +5,16 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/course" element={<Courses />} />
-      </Routes>
-    </Router>
+    <>
+      <div>
+        <Router>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/course" element={<Courses />} />
+          </Routes>
+        </Router>
+      </div>
+    </>
   );
 }
 
