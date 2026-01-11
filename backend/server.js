@@ -3,12 +3,14 @@ import cors from "cors";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 import bookRoute from "./route/bookRoute.js";
+import userRoute from "./route/userRoute.js";
 
 dotenv.config();
 
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.use(cors());
 
 const PORT = process.env.PORT || 5000;
 const MONGO_URL =
@@ -28,6 +30,7 @@ const connectDB = async () => {
 connectDB();
 
 app.use("/books", bookRoute);
+app.use("/users", userRoute);
 
 app.get("/", (req, res) => {
   res.send("Backend server is running!");
